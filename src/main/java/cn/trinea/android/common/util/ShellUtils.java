@@ -1,4 +1,4 @@
-package cn.trinea.android.lib.util;
+package cn.trinea.android.common.util;
 
 import android.os.Build;
 
